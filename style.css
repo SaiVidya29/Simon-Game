@@ -1,0 +1,38 @@
+ body{
+  text-align: center;
+  background-color:rgb(183, 180, 181);
+ }
+ .boxContainer{
+    height:100%;
+    width:100%;
+    display:flex;
+    justify-content: center;
+ }
+ .box{
+    margin:5px;
+    height:100px;
+    width:100px;
+    border:5px solid black;
+    border-radius:15%;
+ }
+ .red{
+    background-color:#d95980;
+ }
+ .yellow{
+    background-color:#f99b45;
+ }
+ .green{
+    background-color:#63aac0;
+ }
+ .blue{
+    background-color:#819ff9;
+ }
+ .flash{
+   background-color:white;
+ }
+ .user{
+   background-color:green;
+ }
+ .back{
+   background-color:red;
+ }
